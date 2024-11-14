@@ -17,12 +17,12 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JANUARIUS
+ * @author OBED
  */
 public class ViewData extends javax.swing.JPanel {
        private static final String username = "root";
-    private static final String password = "password";
-    private static final String dataConn = "jdbc:mysql://localhost:3306/connector";
+    private static final String password = "my-secret-pw";
+    private static final String dataConn = "jdbc:mysql://localhost:3306/medicaldb?useSSL=false";
    // private JTable jTable2;
     
     

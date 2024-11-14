@@ -7,7 +7,7 @@ package Controller;
 
 /**
  *
- * @author Go
+ * @author OBED
  */
 public class Controller {
 

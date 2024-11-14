@@ -25,7 +25,7 @@ import javax.swing.JScrollPane;
 
 /**
  *
- * @author JANUARIUS
+ * @author OBED
  */
 public class FormPage extends javax.swing.JPanel {
     

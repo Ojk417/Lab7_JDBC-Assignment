@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JANUARIUS
+ * @author OBED
  */
 public class MainFrame extends javax.swing.JFrame {
 
